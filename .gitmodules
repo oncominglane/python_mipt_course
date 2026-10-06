@@ -1,0 +1,3 @@
+[submodule "seminars"]
+	path = seminars
+	url = https://github.com/romelllo/mipt-python-fall-2026.git
